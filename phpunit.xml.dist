@@ -19,6 +19,6 @@
     </testsuite>
   </testsuites>
   <php>
-      <const name="DEBUG" value="true"/>
+      <const name="NODEBUG" value="true"/>
   </php>
 </phpunit>
