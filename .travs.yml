@@ -6,4 +6,4 @@ php:
 script:
   - make phpunit
 
-sudo: true
+sudo: required
