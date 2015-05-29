@@ -1,0 +1,1 @@
+Test a crash in PHP7 with DEBUG constant and phpunit
