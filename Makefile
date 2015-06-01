@@ -1,4 +1,4 @@
 #/bin/bash
 
 phpunit:
-	phpunit -c test/ --coverage-clover build/coverage/clover-unit.xml
+	phpunit -c ./ --coverage-clover build/coverage/clover-unit.xml
